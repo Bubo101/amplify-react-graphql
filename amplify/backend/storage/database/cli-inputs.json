@@ -1,0 +1,14 @@
+{
+  "resourceName": "database",
+  "policyUUID": "8a7d49d4",
+  "bucketName": "data-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
